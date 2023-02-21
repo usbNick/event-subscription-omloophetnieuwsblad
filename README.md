@@ -1,1 +1,1 @@
-# omloop-het-nieuwsblad
+# event-subscription-static-mailerlite
